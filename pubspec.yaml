@@ -27,9 +27,16 @@ flutter:
   assets:
     - assets/bg.jpg
     - assets/f.jpg
-    - assets/Kw.otf
 
   fonts:
     - family: Kw
       fonts:
-        - asset: assets/Kw.otf
+        - asset: assets/fonts/Kw.otf
+
+    - family: Bungee
+      fonts:
+        - asset: assets/fonts/Bungee-Regular.ttf
+
+    - family: LuckiestGuy
+      fonts:
+        - asset: assets/fonts/LuckiestGuy-Regular.ttf
